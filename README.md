@@ -2,9 +2,9 @@
 
 **Hexlet Codebattle (рус. «Хекслет Кодбаттл»)** — бесплатная игра с открытым исходным кодом, в которой пользователь может соревноваться с другим пользователем или с ботом в решении задачи по программированию на скорость: побеждает тот, кто решит задачу первым. Во время сражения каждый игрок может выбрать язык программирования и изменить его в процессе игры. 
 
-- Ссылка на игру Hexlet Codebattle: codebattle.hexlet.io
-- Репозиторий игры: github.com/hexlet-codebattle/codebattle    
-- Учебный проект Хекслета для курса «Инженер по ручному тестированию» (ru.hexlet.io/programs/qa-engineer)    
+- Ссылка на игру Hexlet Codebattle: [codebattle.hexlet.io](codebattle.hexlet.io)
+- Репозиторий игры: [github.com/hexlet-codebattle/codebattle](github.com/hexlet-codebattle/codebattle)
+- Учебный проект Хекслета для курса «Инженер по ручному тестированию»: [ru.hexlet.io/programs/qa-engineer](ru.hexlet.io/programs/qa-engineer)   
 
 ## Вход в игру
 
